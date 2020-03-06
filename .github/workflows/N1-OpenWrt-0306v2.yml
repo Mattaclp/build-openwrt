@@ -1,4 +1,4 @@
-name: N1-OpenWrt-0306
+name: N1-OpenWrt-0306v2
 
 on:
   push:
